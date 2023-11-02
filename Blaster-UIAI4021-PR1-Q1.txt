@@ -3,13 +3,13 @@ Execution Time: 0.045073747634887695
 .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 Flight #1:
 From: Tehran-Imam Khomeini International Airport, Iran
-To: Istanbul-Atatürk International Airport, Turkey
+To: Istanbul-Atatï¿½rk International Airport, Turkey
 Duration: 2041km
 Time: 3h
 Price: 238$
 ----------------------------
 Flight #2:
-From: Istanbul-Atatürk International Airport, Turkey
+From: Istanbul-Atatï¿½rk International Airport, Turkey
 To: New York-John F Kennedy International Airport, United States
 Duration: 8052km
 Time: 10h
@@ -31,13 +31,13 @@ Execution Time: 0.25116753578186035
 .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 Flight #1:
 From: Tehran-Imam Khomeini International Airport, Iran
-To: Istanbul-Atatürk International Airport, Turkey
+To: Istanbul-Atatï¿½rk International Airport, Turkey
 Duration: 2041km
 Time: 3h
 Price: 238$
 ----------------------------
 Flight #2:
-From: Istanbul-Atatürk International Airport, Turkey
+From: Istanbul-Atatï¿½rk International Airport, Turkey
 To: New York-John F Kennedy International Airport, United States
 Duration: 8052km
 Time: 10h
