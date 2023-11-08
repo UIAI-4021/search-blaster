@@ -2,26 +2,54 @@ dijkstra Algorithm
 Execution Time: 3
 .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 Flight #1:
-From: Istanbul-Imam Khomeini International Airport, Turkey
-To: Tehran-Atatürk International Airport, Iran
+From: Tehran-Imam Khomeini International Airport, Iran
+To: Istanbul-Atatürk International Airport, Turkey
 Duration: 2041km
 Time: 3h
-Price: 990$
+Price: 238$
 ----------------------------
 Flight #2:
-From: New York-Atatürk International Airport, United States
-To: Istanbul-John F Kennedy International Airport, Turkey
+From: Istanbul-Atatürk International Airport, Turkey
+To: New York-John F Kennedy International Airport, United States
 Duration: 8052km
-Time: 11h
-Price: 3996$
+Time: 10h
+Price: 837$
 ----------------------------
 Flight #3:
-From: Raleigh-durham-John F Kennedy International Airport, United States
-To: New York-Raleigh Durham International Airport, United States
+From: New York-John F Kennedy International Airport, United States
+To: Raleigh-durham-Raleigh Durham International Airport, United States
 Duration: 687km
-Time: 1h
-Price: 313$
+Time: 2h
+Price: 132$
 ----------------------------
-Total Price: 5300$
+Total Price: 1207$
+Total Duration: 10779km
+Total Time: 15h
+
+A* Algorithm
+Execution Time: 53
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Flight #1:
+From: Tehran-Imam Khomeini International Airport, Iran
+To: Istanbul-Atatürk International Airport, Turkey
+Duration: 2041km
+Time: 3h
+Price: 238$
+----------------------------
+Flight #2:
+From: Istanbul-Atatürk International Airport, Turkey
+To: New York-John F Kennedy International Airport, United States
+Duration: 8052km
+Time: 10h
+Price: 837$
+----------------------------
+Flight #3:
+From: New York-John F Kennedy International Airport, United States
+To: Raleigh-durham-Raleigh Durham International Airport, United States
+Duration: 687km
+Time: 2h
+Price: 132$
+----------------------------
+Total Price: 1207$
 Total Duration: 10779km
 Total Time: 15h
