@@ -1,5 +1,5 @@
 dijkstra Algorithm
-Execution Time: 0
+Execution Time: 0.045073747634887695
 .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 Flight #1:
 From: Tehran-Imam Khomeini International Airport, Iran
@@ -27,7 +27,7 @@ Total Duration: 10779km
 Total Time: 15h
 
 A* Algorithm
-Execution Time: 3
+Execution Time: 0.25116753578186035
 .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 Flight #1:
 From: Tehran-Imam Khomeini International Airport, Iran
