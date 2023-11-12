@@ -1,27 +1,56 @@
-dijkstra Algorithm
-Execution Time: 3
+Dijkstra Algorithm
+Execution Time: 0.025409936904907227
 .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
-Flight #1:
-From: Istanbul-Imam Khomeini International Airport, Turkey
-To: Tehran-Atatürk International Airport, Iran
-Duration: 2041km
-Time: 3h
-Price: 990$
+Flight #1 (Mahan Air):
+From: Imam Khomeini International Airport-Tehran, Iran
+To: Atatürk International Airport-Istanbul, Turkey
+Duration: 2040.98km
+Time: 3.04h
+Price: 990.49$
 ----------------------------
-Flight #2:
-From: New York-Atatürk International Airport, United States
-To: Istanbul-John F Kennedy International Airport, Turkey
-Duration: 8052km
-Time: 11h
-Price: 3996$
+Flight #2 (US Airways):
+From: Atatürk International Airport-Istanbul, Turkey
+To: John F Kennedy International Airport-New York, United States
+Duration: 8051.74km
+Time: 10.5h
+Price: 3995.87$
 ----------------------------
-Flight #3:
-From: Raleigh-durham-John F Kennedy International Airport, United States
-To: New York-Raleigh Durham International Airport, United States
-Duration: 687km
-Time: 1h
-Price: 313$
+Flight #3 (US Airways):
+From: John F Kennedy International Airport-New York, United States
+To: Raleigh Durham International Airport-Raleigh-durham, United States
+Duration: 686.5km
+Time: 1.35h
+Price: 313.25$
 ----------------------------
-Total Price: 5300$
-Total Duration: 10779km
-Total Time: 15h
+Total Price: 5299.61$
+Total Duration: 10779.23km
+Total Time: 14.89h
+
+A* Algorithm
+Execution Time: 0.06999397277832031
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+Flight #1 (Mahan Air):
+From: Imam Khomeini International Airport-Tehran, Iran
+To: Atatürk International Airport-Istanbul, Turkey
+Duration: 2040.98km
+Time: 3.04h
+Price: 990.49$
+----------------------------
+Flight #2 (US Airways):
+From: Atatürk International Airport-Istanbul, Turkey
+To: John F Kennedy International Airport-New York, United States
+Duration: 8051.74km
+Time: 10.5h
+Price: 3995.87$
+----------------------------
+Flight #3 (US Airways):
+From: John F Kennedy International Airport-New York, United States
+To: Raleigh Durham International Airport-Raleigh-durham, United States
+Duration: 686.5km
+Time: 1.35h
+Price: 313.25$
+----------------------------
+Total Price: 5299.61$
+Total Duration: 10779.23km
+Total Time: 14.89h
+
