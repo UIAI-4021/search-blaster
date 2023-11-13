@@ -1,5 +1,5 @@
 Dijkstra Algorithm
-Execution Time: 0.025409936904907227
+Execution Time: 0.024195432662963867
 .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 Flight #1 (Mahan Air):
 From: Imam Khomeini International Airport-Tehran, Iran
